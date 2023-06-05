@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahmudulhasandigonto
 - 👀 I’m interested in ... Programming
-- 🌱 I’m currently learning Java
+- 🌱 I know Java, JavaScript, TypeScript, Python, Php, Dart, Django, Laravel, Spring boot, Angular, React, Vue Js, Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Mail Me mahmudulhasandigonto@gmail.com
 
